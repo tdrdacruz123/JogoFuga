@@ -3,11 +3,16 @@ FUGA DAS TAÇAS
 
 Mecânica do jogo:
 . MOVIMENTAÇÃO: O jogador controlam um jogador de futebol para que ele se move pelo campo para evitar que as taças te atinge
+
 . REFLEXOS RÁPIDOS: O principal desafio do jogo é desviar das taças que caem em uma certa velocidade do céu
+
 . PREMIOS: O jogador pode coletar moedas duranto o jogo para ver quantas moedas você consegue coletar
+
 . MODOS DE JOGO: Modo de desafio, com objetivo é durar o máximo de tempo possível
+
 . ELEMENTOS VISUAIS: Efeito visuais impactantes para as taças que caem e as moedas
   Camêra dinâmica que acompanha a ação do jogador
+  
   . ELEMENTOS SONOROS: Musica do Memphis depay (Peita do Coringão) para que deixe o jogo um pouco animado kkk ,
   efeitos sonoros quando o player coleta as moeda e Efeitos sonoros quando o player é atingido pelas taças
 
