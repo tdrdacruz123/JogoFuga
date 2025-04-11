@@ -1,4 +1,4 @@
-FUGA DAS TAÇAS
+FUJA DAS TAÇAS
 É um jogo de muito reflexos rapidos que coloca o player em um campo onde taças caem do céu, desafiando-o a sobreviver o máximo tempo possivel.
 
 Mecânica do jogo:
