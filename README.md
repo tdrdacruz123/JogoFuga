@@ -30,3 +30,7 @@ Mecânica do jogo:
 ![image](https://github.com/user-attachments/assets/791cc206-cd61-4d28-a0b0-d95f9a38edbd)
 
 
+CLICA AQUI PARA JOGAR O JOGO 
+fujadastacas.tiiny.site
+
+
