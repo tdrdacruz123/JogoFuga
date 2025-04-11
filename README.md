@@ -16,7 +16,7 @@ Mecânica do jogo:
   . ELEMENTOS SONOROS: Musica do Memphis depay (Peita do Coringão) para que deixe o jogo um pouco animado kkk ,
   efeitos sonoros quando o player coleta as moeda e Efeitos sonoros quando o player é atingido pelas taças
 
-  FUGA DAS TAÇAS É UM JOGO QUE COMBINA REFLEXOS RÁPIDOS COM ELEMENTOS VISUAIS E SONOROS PARA CRIAR UMA EXPERIÊNCIA DE UM JOGO ENGRAÇADO E DESAFIADOR
+  FUJA DAS TAÇAS É UM JOGO QUE COMBINA REFLEXOS RÁPIDOS COM ELEMENTOS VISUAIS E SONOROS PARA CRIAR UMA EXPERIÊNCIA DE UM JOGO ENGRAÇADO E DESAFIADOR
 
   ![image](https://github.com/user-attachments/assets/a71da95b-b3f9-4997-809d-04433448e3e3)
 
