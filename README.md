@@ -31,6 +31,7 @@ Mecânica do jogo:
 
 
 CLICA AQUI PARA JOGAR O JOGO 
+
 fujadastacas.tiiny.site
 
 
