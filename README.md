@@ -2,7 +2,7 @@ FUJA DAS TAÇAS
 É um jogo de muito reflexos rapidos que coloca o player em um campo onde taças caem do céu, desafiando-o a sobreviver o máximo tempo possivel.
 
 Mecânica do jogo:
-. MOVIMENTAÇÃO: O jogador controlam um jogador de futebol para que ele se move pelo campo para evitar que as taças te atinge
+. MOVIMENTAÇÃO: O jogador controlam um jogador de futebol para que ele se move pelo campo para evitar que as taças te atinge usando o mouse para que o player possa se mover
 
 . REFLEXOS RÁPIDOS: O principal desafio do jogo é desviar das taças que caem em uma certa velocidade do céu
 
