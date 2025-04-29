@@ -34,4 +34,3 @@ CLICA AQUI PARA JOGAR O JOGO
 
 https://www.construct.net/en/free-online-games/fuja-tacas-76039/play
 
-
